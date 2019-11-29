@@ -14,6 +14,7 @@
 #waifu {
   position: fixed;
   bottom: -1000px;
+  left: unset;
   right: 1%;
   z-index: 1;
   line-height: 0;
